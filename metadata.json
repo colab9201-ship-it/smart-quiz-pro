@@ -1,0 +1,6 @@
+{
+  "name": "Smart Quiz Pro",
+  "description": "A Premium Dynamic Online Quiz, Exam & Certification Platform with Google Sheets Database integration, Admin Panel, Anti-Cheat system, and Gemini AI powered question builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
